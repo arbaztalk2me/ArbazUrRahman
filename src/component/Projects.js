@@ -1,8 +1,11 @@
 import React from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 function Projects(props) {
+  AOS.init();
   return (
-    <div id="projects" className="project-body my-5">
+    <div data-aos="fade-right" id="projects" className="project-body my-5">
       <div>
         <h1 className="text-center">
           Projects <i class="fas fa-paper-plane ms-2"></i>

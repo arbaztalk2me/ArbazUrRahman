@@ -1,8 +1,11 @@
 import React from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 function Academics(props) {
+  AOS.init();
   return (
-    <div id="academics" className="my-5">
+    <div data-aos="fade-right" id="academics" className="my-5">
       <h1 className="text-center mb-5">
         Academics <i class="fas fa-user-graduate ms-2"></i>
       </h1>

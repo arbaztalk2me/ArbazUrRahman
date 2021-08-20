@@ -1,14 +1,17 @@
 import React, { useState } from "react";
 import TrueContact from "./TrueContact";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 function Contact(props) {
+  AOS.init();
   const [contact, setContact] = useState(false);
   const submitClicked = (e) => {
     e.preventDefault();
     setContact(true);
   };
   return (
-    <div id="contact" className="my-5">
+    <div data-aos="fade-right" id="contact" className="my-5">
       <div>
         <h1 className="text-center">
           Contact Us <i class="ms-2 fas fa-address-book"></i>

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ArbazUrRahman/static/css/main.e78ec39f.chunk.css",
-    "main.js": "/ArbazUrRahman/static/js/main.609fe5df.chunk.js",
-    "main.js.map": "/ArbazUrRahman/static/js/main.609fe5df.chunk.js.map",
+    "main.css": "/ArbazUrRahman/static/css/main.4dde962c.chunk.css",
+    "main.js": "/ArbazUrRahman/static/js/main.8da531b3.chunk.js",
+    "main.js.map": "/ArbazUrRahman/static/js/main.8da531b3.chunk.js.map",
     "runtime-main.js": "/ArbazUrRahman/static/js/runtime-main.d9b27dfc.js",
     "runtime-main.js.map": "/ArbazUrRahman/static/js/runtime-main.d9b27dfc.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/ArbazUrRahman/static/css/2.ae9e5f60.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.dd88078e.chunk.js.map": "/ArbazUrRahman/static/js/2.dd88078e.chunk.js.map",
     "index.html": "/ArbazUrRahman/index.html",
     "static/css/2.ae9e5f60.chunk.css.map": "/ArbazUrRahman/static/css/2.ae9e5f60.chunk.css.map",
-    "static/css/main.e78ec39f.chunk.css.map": "/ArbazUrRahman/static/css/main.e78ec39f.chunk.css.map",
+    "static/css/main.4dde962c.chunk.css.map": "/ArbazUrRahman/static/css/main.4dde962c.chunk.css.map",
     "static/js/2.dd88078e.chunk.js.LICENSE.txt": "/ArbazUrRahman/static/js/2.dd88078e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d9b27dfc.js",
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.dd88078e.chunk.js",
-    "static/css/main.e78ec39f.chunk.css",
-    "static/js/main.609fe5df.chunk.js"
+    "static/css/main.4dde962c.chunk.css",
+    "static/js/main.8da531b3.chunk.js"
   ]
 }

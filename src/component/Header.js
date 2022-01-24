@@ -14,7 +14,7 @@ function Header(props) {
                 Get In Touch<i class=" ms-2 fas fa-user-plus"></i>
               </a>
               <a
-                href="https://srv-store3.gofile.io/download/08226604-3d77-41ae-8528-c4714ecffb3f/ArbazUrRahman_IT_TINT_2022passout_batch.docx"
+                href="https://drive.google.com/file/d/1tAO3fjjGS59G2iAWUwahDuPOzzT0bchd/view?usp=sharing"
                 className="btn btn-outline-warning ms-2 mt-2 "
               >
                 Download CV<i class="ms-2 fas fa-file"></i>
